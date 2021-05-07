@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tasmiatabassum
 - 👀 I’m interested in true crime and psychology
-- 🌱 I’m currently learning data structures and algorithm
+- 🌱 python 🤧🤕
 - 🎶 still with you - jk is my muse
 
 
