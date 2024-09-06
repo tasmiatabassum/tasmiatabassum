@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tasmiatabassum
-- 👀 I’m interested in true crime and psychology
-- 💻Python
-- 🌱learning Tkinter
-- 🎶 still with you - jk is my muse
+
 
 
 <!---
